@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 800;
+    text-align: center;
+}
+body{
+    font-family: Arial;
+    background-color: white;
+    font-size: medium;
+}
